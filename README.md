@@ -109,6 +109,8 @@ There's an EcomID advanced node available, at the moment the only difference wit
 
 ## Other notes
 
+- Referenced the following repositories: [ComfyUI_InstantID](https://github.com/cubiq/ComfyUI_InstantID) and [PuLID_ComfyUI](https://github.com/cubiq/PuLID_ComfyUI).
+
 - Remember at the moment this is only compatible with SDXL-based models, such as EcomXL, [leosams-helloworld-xl](https://civitai.com/models/43977/leosams-helloworld-xl), [dreamshaper-xl](https://civitai.com/models/112902/dreamshaper-xl), [stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) and so on.
 - It works very well with SDXL Turbo/Lighting, [EcomXL-Inpainting-ControlNet](https://huggingface.co/alimama-creative/EcomXL_controlnet_inpaint) and [EcomXL-Softedge-ControlNet](https://huggingface.co/alimama-creative/EcomXL_controlnet_softedge).
 
