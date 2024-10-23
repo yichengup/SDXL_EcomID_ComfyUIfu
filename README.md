@@ -65,7 +65,7 @@ EcomID enhances portrait representation, delivering a more authentic and aesthet
 
 </table>
 
-You can see more showcases in the [EcomID](https://code.alibaba-inc.com/ruxue.wrx/EcomID) repository.
+You can see more showcases in the [SDXL-EcomID](https://huggingface.co/alimama-creative/SDXL-EcomID) repository.
 
 ## Basic Workflow
 
