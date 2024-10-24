@@ -87,7 +87,7 @@ Models:
 - `facexlib` dependency needs to be installed, the models are downloaded at first use
 - You also need **InsightFace** with [AntelopeV2](https://huggingface.co/MonsterMMORPG/tools/tree/main), the unzipped models should be placed in `ComfyUI/models/insightface/models/antelopev2`
 - The **ip_adapter model of InstantID** can be downloaded from [HuggingFace](https://huggingface.co/InstantX/InstantID/resolve/main/ip-adapter.bin?download=true) and should be placed into the `ComfyUI/models/instantid` directory. (Note that the model is called *ip_adapter* as it is based on the [IPAdapter](https://github.com/tencent-ailab/IP-Adapter)).
-- You also needs a **[ControlNet](https://code.alibaba-inc.com/ruxue.wrx/EcomID)** trained on 2M real human images. Please place it in the ComfyUI controlnet directory.
+- You also needs a **[ControlNet](https://huggingface.co/alimama-creative/SDXL-EcomID/resolve/main/diffusion_pytorch_model.safetensors?download=true)** trained on 2M real human images. Please place it in the ComfyUI controlnet directory.
 
 ## Various Resolutions
 
