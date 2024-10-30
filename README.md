@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/96403a5b-eb1a-47f9-8043-84070a1ee876)<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="./images/images_alibaba.png" alt="alibaba" style="width: 20%; height: auto; margin-right: 5%;">
   <img src="./images/images_alimama.png" alt="alimama" style="width: 20%; height: auto;">
 </div>
