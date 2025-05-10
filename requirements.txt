@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c47c07434305b0466377f4669f87dcbfb6ef358c32480678ed89309f4c21ce45
-size 40
+facexlib
+insightface
+onnxruntime
+onnxruntime-gpu
+ftfy
+timm
